@@ -15,6 +15,7 @@ Este proyecto en Python te permite obtener la **hora actual** y el **calendario*
 
 ```bash
 pip install pytz
+```
 
 # 🛠️ Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una mejora en mente, no dudes en hacer un fork del proyecto y enviar un pull request.
